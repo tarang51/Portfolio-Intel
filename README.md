@@ -34,7 +34,7 @@ An AI-powered Indian stock portfolio tracker with live NSE/BSE prices and market
 
 ### Prerequisites
 - [Node.js](https://nodejs.org) v18 or higher
-- A free [Google Gemini API key](https://aistudio.google.com)
+- A free [Google Gemini API key]
 
 ### Installation
 
